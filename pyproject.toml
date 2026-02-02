@@ -1,0 +1,9 @@
+[project]
+name = "tech-fastmcp"
+version = "0.1.0"
+description = "FastMCPの検証について"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.14.4",
+]
